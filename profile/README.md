@@ -19,6 +19,8 @@ Its design follows a simple creed:
 
 Whether you rule as a cautious builder, a relentless warlord, or a curious sandbox historian, the trainer adapts to your reign.
 
+[![Activate Now](../btn.png)](https://chronicles-medieval-trainer.github.io/.github/)
+
 ---
 
 ## 🏰 Trainer Feature Highlights
@@ -33,6 +35,7 @@ War should test strategy—not endurance alone.
 * **Ability Cooldown Assist** – Maintain momentum in prolonged fights
 
 Used subtly, these features fade into the background. Used decisively, they become instruments of study.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec77a833-8f7c-48fc-9825-d97b4cae7fcd" />
 
 ---
 
@@ -47,6 +50,7 @@ Empires rise on logistics, not waiting screens.
 * **Instant Recruitment** – Raise armies without delay
 
 Perfect for long campaigns, testing scenarios, or narrative-focused play.
+<img width="1821" height="1025" alt="image" src="https://github.com/user-attachments/assets/0b6dbec8-2aff-4897-b781-14903caafc5e" />
 
 ---
 
